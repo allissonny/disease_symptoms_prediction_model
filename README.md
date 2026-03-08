@@ -1,4 +1,4 @@
-# DSC550 Final Project
+# Disease Symptoms Prediction Model
 
 This repository contains my final project for DSC550, demonstrating applied data analysis and basic machine learning workflows using Python and Jupyter Notebook.
 
